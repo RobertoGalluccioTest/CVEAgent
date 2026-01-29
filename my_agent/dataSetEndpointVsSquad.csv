@@ -1,0 +1,8 @@
+﻿Endpoint/Service,Asset Name,Reference Squad
+GET /adapter05/card/{digitizedCardId},ITA Wallet Credit Card API,Credit Card Squad
+POST /adapter05/card/digitizable,ITA Wallet Credit Card API,Credit Card Squad
+POST /adapter06/card/digitizable,ITA Wallet Debit Card API,Debit Card Squad
+POST /adapter06/card/notify,ITA Wallet Debit Card API,Debit Card Squad
+GET /v1/investment-reporting/report/{reportType}/elements,ITA Investment Management,Investment Squad
+GET /v1/investment-reporting/tech-services/health/check,ITA Investment Management,Investment Squad
+POST /v1/internal/investments/open-sr,ITA InvestmentReporting API ,Investment Squad
